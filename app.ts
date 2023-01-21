@@ -1,2 +1,2 @@
-let mensagem: string = 'Hello, World'
-console.log(mensagem)
+let numeros: bigint = 1238981472716751965212n;
+console.log(numeros);
